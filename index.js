@@ -20,7 +20,7 @@ function addTask(){
 
     }
     inputbox.value="";
-    savedData();
+    saveData();
 }
 
 l.addEventListener("click",function(a){
